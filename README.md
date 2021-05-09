@@ -23,3 +23,25 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=kentavv&count_private=true&show_icons=true" alt="my github stats" width="55%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentavv&layout=compact" alt="my top langs" width="55%"/>
 </pre>
+
+<p align="center">
+  <a href="https://linkedin.com/in/kent.vandervelden">
+    <img src="https://img.icons8.com/ios-filled/256/808080/youtube.svg" width="26px"/>
+  </a>
+  &emsp;
+  <a href="https://linkedin.com/in/kent.vandervelden">
+    <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
+  </a>
+  &emsp;
+  <a href= "https://instagram.com/kvvcreates">
+    <img src="https://img.icons8.com/ios-glyphs/256/808080/instagram-new.svg" width="28px"/>
+  </a>
+  &emsp;
+  <a href="https://confluencerd.com">
+    <img src="https://img.icons8.com/material/256/808080/globe--v1.png" width="28px"/>
+  </a>
+  &emsp;
+  <a href="https://kvvcreates.com">
+    <img src="https://img.icons8.com/material/256/808080/globe--v1.png" width="28px"/>
+  </a>
+</p>
