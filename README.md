@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </pre>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kent.vandervelden">
+  <a href="https://www.youtube.com/channel/UCISg96UTdJCzrF7ifmr6Esw">
     <img src="https://img.icons8.com/ios-filled/256/808080/youtube.svg" width="26px"/>
   </a>
   &emsp;
