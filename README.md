@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/ios-filled/256/808080/youtube.svg" width="26px"/>
   </a>
   &emsp;
-  <a href="https://linkedin.com/in/kent.vandervelden">
+  <a href="https://linkedin.com/in/kentavv">
     <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
   </a>
   &emsp;
