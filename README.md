@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![https://img.icons8.com/ios-filled/256/808080/youtube.svg](https://www.youtube.com/channel/UCISg96UTdJCzrF7ifmr6Esw)
+---
+[![github](https://img.icons8.com/ios-filled/256/808080/youtube.svg)][1]
+---
+
+[1] https://www.youtube.com/channel/UCISg96UTdJCzrF7ifmr6Esw
 
 
 <!--
