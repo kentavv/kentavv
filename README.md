@@ -1,11 +1,6 @@
 ### Hi there 👋
 
----
-[![github](https://img.icons8.com/ios-filled/256/808080/youtube.svg)][1]
----
-
-[1] https://www.youtube.com/channel/UCISg96UTdJCzrF7ifmr6Esw
-
+[![YouTube](https://img.icons8.com/ios-filled/256/808080/youtube.svg)](https://www.youtube.com/channel/UCISg96UTdJCzrF7ifmr6Esw)
 
 <!--
 **kentavv/kentavv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
