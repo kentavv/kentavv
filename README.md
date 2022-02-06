@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<pre align="center">
-
 <p align="center">
   <a href="https://www.youtube.com/channel/UCISg96UTdJCzrF7ifmr6Esw">
     <img src="https://img.icons8.com/ios-filled/256/808080/youtube.svg" width="26px"/>
@@ -20,6 +18,7 @@
   </a>
 </p>
 
+<pre align="center">
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=kentavv&count_private=true&show_icons=true&theme=dracula" alt="my github stats" width="55%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentavv&layout=compact&theme=dracula" alt="my top langs" width="55%"/>
