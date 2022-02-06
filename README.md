@@ -1,4 +1,5 @@
-### Hi there 👋
+### Kent Vander Velden
+I'm a freelance developer of analytical systems. Below are my social media links and GitHub summary.
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCISg96UTdJCzrF7ifmr6Esw">
